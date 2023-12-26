@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-first-idea/1-first-idea.iml" filepath="$PROJECT_DIR$/1-first-idea/1-first-idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-conditionals-loops/2-conditionals-loops.iml" filepath="$PROJECT_DIR$/2-conditionals-loops/2-conditionals-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-functions/3-functions.iml" filepath="$PROJECT_DIR$/3-functions/3-functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-array/4-array.iml" filepath="$PROJECT_DIR$/4-array/4-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java DSA.iml" filepath="$PROJECT_DIR$/.idea/Java DSA.iml" />
+    </modules>
+  </component>
+</project>

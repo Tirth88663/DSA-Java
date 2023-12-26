@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class PermutationArray {
+    // 1920. Build Array from Permutation
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int[] a = new int[5];

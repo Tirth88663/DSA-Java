@@ -20,6 +20,7 @@ public class ShuffleArray {
             ans[2*i]=nums[i];
             ans[2*i+1] = nums[n+i];
         }
+        Arrays.stream(nums).max().getAsInt();
         return ans;
     }
 }
